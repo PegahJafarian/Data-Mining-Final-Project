@@ -6,3 +6,8 @@
 
 
 2) Implementing linear regression with batch gradient descent
+
+
+
+
+3) Implementing logistic regression and PCA
