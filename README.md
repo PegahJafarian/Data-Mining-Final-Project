@@ -1,8 +1,8 @@
 # Data-Mining-Final-Project
-Next-Item Recommendation via discriminatively exploiting user behavior
+1) Next-Item Recommendation via discriminatively exploiting user behavior
 
 
 
 
 
-Implementing linear regression with batch gradient descent
+2) Implementing linear regression with batch gradient descent
