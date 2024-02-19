@@ -11,3 +11,8 @@
 
 
 3) Implementing logistic regression, Lasso Regression and PCA
+
+
+
+
+4) Implementing Random Forest and Decision Tree algorithms
