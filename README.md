@@ -10,4 +10,4 @@
 
 
 
-3) Implementing logistic regression and PCA
+3) Implementing logistic regression, Lasso Regression and PCA
